@@ -1,7 +1,7 @@
 <?php
 
 $persona = [
-    "Nombre" => "Jon",
+    "Nombre" => "ASasddsa",
     "Apellido" => "Snow",
     "Edad" => 27,
     "Hobbies" => ['Netflix', 'Futbol', 'Programar']
